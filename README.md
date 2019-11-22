@@ -8,3 +8,4 @@ Download the zip file, unzip the archive and use the samples in Visual Studio.
 To debug the sample and then run it, press F5 or select Debug > Start Debugging. To run the sample without debugging, press Ctrl + F5 or select Debug > Start Without Debugging.
 
 ## The Layout
+![calculator](screenshot/calculator.png)
